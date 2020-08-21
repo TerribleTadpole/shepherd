@@ -70,6 +70,7 @@ regions:
       - WIN
       - WIN HD
       - PRIME7 HD
+      - 9Rush
   67:
     state: NSW
     name: "Griffith"
@@ -204,6 +205,7 @@ regions:
       - TEN
       - TEN HD
       - TVSN
+      - 9Rush
   74:
     state: NT
     name: "Darwin"
@@ -273,6 +275,7 @@ regions:
       - TEN
       - TEN HD
       - TVSN
+      - 9Rush
   78:
     state: QLD
     name: "Gold Coast"
@@ -390,6 +393,7 @@ regions:
       - TEN
       - TEN HD
       - TVSN
+      - 9Rush
   82:
     state: SA
     name: "Renmark"
@@ -636,6 +640,7 @@ regions:
       - TEN
       - TEN HD
       - TVSN
+      - 9Rush
   95:
     state: VIC
     name: "Mildura/Sunraysia"
@@ -739,6 +744,7 @@ regions:
       - TEN HD
       - TVSN
       - WTV
+      - 9Rush
   102:
     state: WA
     name: "Regional"
@@ -1046,6 +1052,7 @@ regions:
       - WIN HD
       - WINGOLD
       - SBN
+      - 9Rush
   256:
     state: QLD
     name: "Toowoomba"
